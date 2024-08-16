@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**t3tra-dev/t3tra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=t3tra-dev" />
+</div>
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm a Japanese student.
+- 🌱 I’m currently learning TypeScript!
+- 📫 How to reach me: [X - @t3tra_x](https://x.com/t3tra_x)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,ts,bootstrap,python,anaconda,flask,django,swift,latex,md,regex,bash,git,github,githubactions,docker,aws,gcp,replit,twitter,blender,vscode" />
+<br>
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact" />
+</div>
