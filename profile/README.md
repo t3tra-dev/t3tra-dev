@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+## 👋 Welcome, Bienvenue, ようこそ, 환영합니다, <br>Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎
 
 </div>
 
