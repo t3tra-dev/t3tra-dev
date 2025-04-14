@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+## 👋 Welcome, Bienvenue, ようこそ, 환영합니다, <br>Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎
 
 </div>
 
@@ -18,12 +18,12 @@
 <table>
   <tr>
     <td>
-      <img alt="top langs" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=16&card_width=320&date=1744592433" />
+      <img alt="top langs" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=16&card_width=320&date=1744601228" />
     </td>
     <td>
-      <img alt="github stats" width="420px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1744592433" />
+      <img alt="github stats" width="420px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1744601228" />
       <br />
-      <img alt="trophy" width="420px" src="https://github-profile-trophy.vercel.app/?username=t3tra-dev&theme=gitdimmed&column=5&date=1744592433" />
+      <img alt="trophy" width="420px" src="https://github-profile-trophy.vercel.app/?username=t3tra-dev&theme=gitdimmed&column=5&date=1744601228" />
     </td>
   </tr>
 </table>
