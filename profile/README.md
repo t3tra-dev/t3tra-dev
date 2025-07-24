@@ -27,3 +27,5 @@
     </td>
   </tr>
 </table>
+
+![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/t3tra-dev)
