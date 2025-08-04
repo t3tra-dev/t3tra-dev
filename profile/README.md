@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Welcome, Bienvenue, ようこそ, 환영합니다, <br>Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎
+## 👋 ブンブンハローYouTube‼️どうもHIKAKINです‼️😎ﾌﾞﾙﾙﾙﾙﾙﾙﾙﾙﾙﾙシュカ〜ー‼️（）おならスプレー（ｲｪｪｪｪｪｴｴｴ‼️）
 
 </div>
 
@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=t3tra-dev" />
 </div>
 
-- 🧑‍💻 I'm a Japanese student.
+- 🧑‍💻 I'm a Vietnam student.
 - 🌱 I’m currently learning Scala!
-- 📫 How to reach me: [X - @t3tra_x](https://x.com/t3tra_x)
+- 📫 How to reach me: [X - @hikakin](https://x.com/hikakin)
 <br>
 
 ## 🏃‍♀️ Activities
