@@ -18,14 +18,14 @@
 <table>
   <tr>
     <td>
-      <img alt="top langs" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=16&card_width=320&date=1759018904" />
+      <img alt="top langs" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=16&card_width=320&date=1759105212" />
     </td>
     <td>
-      <img alt="github stats" width="420px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1759018904" />
+      <img alt="github stats" width="420px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1759105212" />
       <br />
-      <img alt="trophy" width="420px" src="https://github-profile-trophy.vercel.app/?username=t3tra-dev&theme=gitdimmed&column=5&date=1759018904" />
+      <img alt="trophy" width="420px" src="https://github-profile-trophy.vercel.app/?username=t3tra-dev&theme=gitdimmed&column=5&date=1759105212" />
     </td>
   </tr>
 </table>
 
-![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/t3tra-dev?date=1759018904)
+![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/t3tra-dev?date=1759105212)
