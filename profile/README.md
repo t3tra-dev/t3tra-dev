@@ -23,7 +23,7 @@
     <td>
       <img alt="github stats" width="420px" src="https://github-readme-stats-5eb7mq0kk-t3tra.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date={date}" />
       <br />
-      <img alt="trophy" width="420px" src="https://github-profile-trophy.vercel.app/?username=t3tra-dev&theme=gitdimmed&column=5&date={date}" />
+      <img alt="trophy" width="420px" src="https://github-profile-trophy-sigma-blush.vercel.app/?username=t3tra-dev&theme=gitdimmed&column=5&date={date}" />
     </td>
   </tr>
 </table>
