@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <img alt="top langs" height="340px" src="https://github-readme-stats-5eb7mq0kk-t3tra.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=16&card_width=320&date={date}" />
+      <img alt="top langs" height="340px" src="https://github-readme-stats-5eb7mq0kk-t3tra.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=20&card_width=320&date={date}" />
     </td>
     <td>
       <img alt="github stats" width="420px" src="https://github-readme-stats-5eb7mq0kk-t3tra.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date={date}" />
